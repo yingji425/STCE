@@ -11,7 +11,8 @@ Extract concepts and calculate importance score for each single class:
 
 Paper
 ===
-More details can be found on 
+More details can be found on our extended abstract http://arxiv.org/abs/2206.05275
+and poster 
 
 Our research on 3D interpretation is still in progress.
 
