@@ -1,5 +1,5 @@
 # Spatial-temporal Concept based Explanation of 3D ConvNets
-3D ACE (Automatic Concept-based Explanation) framework for interpreting 3D ConvNets.
+[CVPR XAI4CV 2022] 3D ACE (Automatic Concept-based Explanation) framework for interpreting 3D ConvNets.
 
 a 3D extention to https://github.com/amiratag/ACE
 
