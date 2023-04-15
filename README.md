@@ -1,5 +1,5 @@
 # Spatial-temporal Concept based Explanation of 3D ConvNets
-[CVPR XAI4CV 2022] 3D ACE (Automatic Concept-based Explanation) framework for interpreting 3D ConvNets.
+[CVPR 2023] Spatial-temporal Concept based Explanation of 3D ConvNets
 
 a 3D extention to https://github.com/amiratag/ACE
 
@@ -11,8 +11,7 @@ Extract concepts and calculate importance score for each single class:
 
 Paper
 ===
-More details can be found on our extended abstract http://arxiv.org/abs/2206.05275
-and poster here https://xai4cv.github.io/assets/posters/p46.pdf
+Our paper has been accepted in CVPR 2023.
 
 Our research on 3D interpretation is still in progress.
 
